@@ -1,0 +1,30 @@
+[
+  {
+    "title": "PGLIFE",
+    "info": "This project helps users find suitable PGs based on their preferences and requirements.",
+    "techStack": ["HTML", "CSS", "JavaScript", "PHP"],
+    "live": "https://github.com/EishikaRaj",
+    "github": "https://github.com/EishikaRaj"
+  },
+  {
+    "title": "Codekart",
+    "info": "An E- commerce website where you can buy different coursesrelated to engineering.",
+    "techStack": ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
+    "live": "https://github.com/EishikaRaj",
+    "github": "https://github.com/EishikaRaj"
+  },
+  {
+    "title": "Coders Point",
+    "info": "Website to know about coding competitions having interview questions.",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "live": "https://github.com/EishikaRaj",
+    "github": "https://github.com/EishikaRaj"
+  },
+  {
+    "title": "Smart Assistant",
+    "info": "Software that understands verbal or written commands and completes task assigned by the client.",
+    "techStack": ["Python"],
+    "live": "https://github.com/EishikaRaj",
+    "github": "https://github.com/EishikaRaj"
+  }
+]
